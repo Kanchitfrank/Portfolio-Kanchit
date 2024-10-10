@@ -1,0 +1,52 @@
+#Cinamon1_Pic{
+    text-align: center;
+}
+#Cinamon2_Pic > img
+{
+    width: 50%;
+}
+#Cinamon2_Pic{
+    text-align: center;
+    
+}
+#Cinamon2_Pic > img
+{
+    width: 50%;
+}
+
+.flex_container img
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.flex_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex_container > div{
+    border: 2px solid turquoise;
+    width: 400px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+.container1{
+    display: flex;
+}
+
+
+h1{
+    background-color: rgb(255, 140, 167);
+    text-align: center;
+
+}
+h2
+{
+    text-align: center;
+     background-color: rgb(0, 255, 255);
+
+}
